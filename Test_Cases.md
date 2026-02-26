@@ -43,7 +43,7 @@
 **Status**:<br>
 **Evidence**:
 
-**FR-004**: Verify is user is able to search for items in stock <br>
+**FR-004**: Verify if user is able to search for items in stock <br>
 ---
 **Preconditions**:<br>
 **Steps To Reproduce**:<br>
