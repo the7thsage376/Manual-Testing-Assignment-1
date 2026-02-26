@@ -8,8 +8,8 @@
 **Status**:<br>
 **Evidence**:
 
- ---
- 
+---
+
 # Test Cases
 
 **Fr-001**: Verifying if user can register an account <br>
@@ -112,5 +112,3 @@
 **Environment used**:<br>
 **Status**:<br>
 **Evidence**:
-
----
